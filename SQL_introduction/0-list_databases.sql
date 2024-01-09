@@ -1,3 +1,3 @@
---first sql table learning
+-- first sql table learning
 
 SHOW DATABASES;
