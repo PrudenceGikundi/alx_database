@@ -1,5 +1,3 @@
 -- using JOIN
-SELECT id,name
-FROM states
-WHERE  name='california'
+SELECT cities.name,cities.id FROM states,cities WHERE  states.name=cities.name AND cities.name='california'
 ORDER BY cities.id ASC;
