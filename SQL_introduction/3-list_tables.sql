@@ -1,2 +1,3 @@
 -- selecting all the tables in the DATABASE
-SELECT * FROM hbtn_0c_0; 
+CREATE DATABASE firstdatabase;
+SELECT * FROM firstdatabase; 
