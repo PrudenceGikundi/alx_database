@@ -1,3 +1,2 @@
--- selecting all the tables in the DATABASE
-CREATE DATABASE firstdatabase;
-SELECT * FROM firstdatabase; 
+-- list all the tables in the DATABASE
+SHOW TABLES;
